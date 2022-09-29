@@ -1,6 +1,6 @@
 # News Articles
 
-**Aasset Trading** is simple CRUD app based on [Laravel](https://laravel.com/).
+**News Articles** is simple CRUD app based on [Laravel](https://laravel.com/).
 
 ### Installation
 
